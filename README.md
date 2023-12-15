@@ -10,3 +10,6 @@ This is an example of a pivot chart i used to sort the data It allows me to nit 
 
 
 This is an example of a graph I made to see the data in a visual context which allows you to see the data rather than read it. 
+
+
+You can find the whole Dashboard here [Project_.Excel+Interactive+Dashboard.xlsx](https://github.com/MohamedHassan47/Keven-cookies-company/files/13685951/Project_.Excel%2BInteractive%2BDashboard.xlsx)

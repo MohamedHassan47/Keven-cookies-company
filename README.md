@@ -7,5 +7,5 @@ In this Dashboard I put together a series of data that allows the user to distig
 This is an example of a pivot chart i used to sort the data It allows me to nit pick certain data to get certain data. 
 
 ![Screenshot (17)](https://github.com/MohamedHassan47/Keven-cookies-company/assets/146730782/5fae174a-43cf-463d-b971-5227d9c65772)
-This is an example of a graph I made to see the data in a visual context which allows you to see the data rather than read it. 
 
+This is an example of a graph I made to see the data in a visual context which allows you to see the data rather than read it. 
